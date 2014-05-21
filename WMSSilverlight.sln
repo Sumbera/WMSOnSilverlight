@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMSOnSilverlight", "WMSOnSilverlight\WMSOnSilverlight.csproj", "{CC98D2F9-CADC-480C-AAC8-882C4D231605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMSOnSilverlight.Web", "WMSOnSilverlight.Web\WMSOnSilverlight.Web.csproj", "{25EE3106-F7DA-48FA-944B-AC90B22B8ED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC98D2F9-CADC-480C-AAC8-882C4D231605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC98D2F9-CADC-480C-AAC8-882C4D231605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC98D2F9-CADC-480C-AAC8-882C4D231605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC98D2F9-CADC-480C-AAC8-882C4D231605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25EE3106-F7DA-48FA-944B-AC90B22B8ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25EE3106-F7DA-48FA-944B-AC90B22B8ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25EE3106-F7DA-48FA-944B-AC90B22B8ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25EE3106-F7DA-48FA-944B-AC90B22B8ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
